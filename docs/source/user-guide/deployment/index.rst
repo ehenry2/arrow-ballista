@@ -25,3 +25,4 @@ Start a Ballista Cluster
    Docker <docker>
    Docker Compose <docker-compose>
    Kubernetes <kubernetes>
+   AWS Fargate <aws-fargate>
